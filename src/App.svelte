@@ -1,5 +1,5 @@
 <script>
-	// CORE IMPORTS
+	// CORE IMPORTS updated
 	import { setContext, onMount } from "svelte";
 	import { getMotion } from "./utils.js";
 	import { themes } from "./config.js";

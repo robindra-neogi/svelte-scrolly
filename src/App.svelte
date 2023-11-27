@@ -244,7 +244,7 @@
 <ONSHeader filled={true} center={false} />
 
 <Header bgcolor="#206095" bgfixed={true} theme="dark" center={false} short={true}>
-	<h1>This is the title of the article</h1>
+	<h1>I have edited the title</h1>
 	<p class="text-big" style="margin-top: 5px">
 		This is a short text description of the article that might take up a couple of lines
 	</p>
